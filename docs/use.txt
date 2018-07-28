@@ -1,3 +1,11 @@
+##Testers
+1.Execute smoke test on Premise and cloud deployment
+
+##Devops
 1.Buil this code from Jenkins
 2.deploy the code to Tomact
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1d0d1c16bf6072c8457761ec1086aef04f09cd3e
